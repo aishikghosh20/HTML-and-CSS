@@ -20,6 +20,9 @@ div{
 
 #box1{
     background-color: aquamarine;
+    border-style:dotted;
+    border-radius: 50%;
+    border-color: black;
 }
 
 #box2{
